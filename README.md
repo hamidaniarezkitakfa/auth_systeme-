@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#React js Laravel Auth:
+- Laravel 9
+- React js 17.0.2
+- bootstrap
+- react-router-domv6
+- axios
 
 ## Available Scripts
 
