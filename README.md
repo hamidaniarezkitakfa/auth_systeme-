@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - bootstrap
 - react-router-domv6
 - axios
+- postgresql
 
 ## Available Scripts
 
